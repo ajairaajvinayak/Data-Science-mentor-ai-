@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Data Science Mentor AI",
+  "description": "A 90-day interactive roadmap and AI-powered career coach for aspiring Data Scientists.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
